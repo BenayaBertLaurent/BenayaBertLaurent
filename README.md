@@ -4,8 +4,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <p align="center"> &nbsp; My SNS and Sidejob
-<p align="center">𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗠𝘂𝘀𝗶𝗰 𝗜𝗹𝗹𝘂𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 𝗣𝗿𝗼𝗺𝗽𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗦𝘁𝗮𝗰𝗸𝗲𝘅𝗰𝗵𝗮𝗻𝗴𝗲 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺</p>
+### <p align="center"> &nbsp; My SNS and Projects
+<p align="center">𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗠𝘂𝘀𝗶𝗰 𝗦𝘁𝗮𝗰𝗸𝗲𝘅𝗰𝗵𝗮𝗻𝗴𝗲</p>
 <p align="center">
 <a href="https://soundcloud.com/bokayamamusic">
 <img alt="Soundcloud" src="https://img.shields.io/badge/-Soundcloud-FF6600?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
