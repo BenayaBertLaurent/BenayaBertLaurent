@@ -7,21 +7,10 @@
 ### <p align="center"> &nbsp; My SNS and Sidejob
 <p align="center">𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗠𝘂𝘀𝗶𝗰 𝗜𝗹𝗹𝘂𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 𝗣𝗿𝗼𝗺𝗽𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗦𝘁𝗮𝗰𝗸𝗲𝘅𝗰𝗵𝗮𝗻𝗴𝗲 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺</p>
 <p align="center">
-<a href="https://discord.com/users/791277397377941525">
-<img alt="Discord" src="https://img.shields.io/badge/-Discord-3929D1?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://forums.mangadex.org/members/bonayama.642487/#about">
 <img alt="Mangadex" src="https://img.shields.io/badge/-Mangadex-C67B39?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
-<a href="https://steamcommunity.com/id/bonayama00">
-<img alt="Steam" src="https://img.shields.io/badge/-Steam-2B4888?style=for-the-badge&logo=steam&logoColor=white"/></a>
-<a href="https://www.reddit.com/user/bona_yama">
-<img alt="Reddit" src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-<a href="https://soundcloud.com/bokayamamusic">
 <img alt="Soundcloud" src="https://img.shields.io/badge/-Soundcloud-FF6600?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
 <a href="https://www.pixiv.net/en/users/33937306">
-<img alt="Pixiv" src="https://img.shields.io/badge/-Pixiv-12b2ED?style=for-the-badge&logo=pixiv&logoColor=white"/></a>
-<a href="https://www.deviantart.com/sephiruth">
-<img alt="Deviantart" src="https://img.shields.io/badge/-Deviantart-43AA60?style=for-the-badge&logo=deviantart&logoColor=white"/></a>
-<a href="https://pixai.art/@bona">
 <img alt="Pixai" src="https://img.shields.io/badge/-Pixai-212221?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 <a href="https://meta.stackexchange.com/users/1456971/bonayama00?tab=profile">
 <img alt="Stackexchange" src="https://img.shields.io/badge/-Stackexchange-0066FF?style=for-the-badge&logo=stackexchange&logoColor=white"/></a>
