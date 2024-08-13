@@ -9,6 +9,7 @@
 <p align="center">
 <a href="https://forums.mangadex.org/members/bonayama.642487/#about">
 <img alt="Mangadex" src="https://img.shields.io/badge/-Mangadex-C67B39?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
+<a href="https://soundcloud.com/bokayamamusic">
 <img alt="Soundcloud" src="https://img.shields.io/badge/-Soundcloud-FF6600?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
 <a href="https://meta.stackexchange.com/users/1456971/BenayaBertLaurent?tab=profile">
 <img alt="Stackexchange" src="https://img.shields.io/badge/-Stackexchange-0066FF?style=for-the-badge&logo=stackexchange&logoColor=white"/></a>
