@@ -7,8 +7,6 @@
 ### <p align="center"> &nbsp; My SNS and Sidejob
 <p align="center">𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗠𝘂𝘀𝗶𝗰 𝗜𝗹𝗹𝘂𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 𝗣𝗿𝗼𝗺𝗽𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗦𝘁𝗮𝗰𝗸𝗲𝘅𝗰𝗵𝗮𝗻𝗴𝗲 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺</p>
 <p align="center">
-<a href="https://forums.mangadex.org/members/bonayama.642487/#about">
-<img alt="Mangadex" src="https://img.shields.io/badge/-Mangadex-C67B39?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
 <a href="https://soundcloud.com/bokayamamusic">
 <img alt="Soundcloud" src="https://img.shields.io/badge/-Soundcloud-FF6600?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
 <a href="https://meta.stackexchange.com/users/1456971/BenayaBertLaurent?tab=profile">
